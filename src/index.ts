@@ -19,7 +19,7 @@ import * as FirebaseAdmin from 'firebase-admin';
 if (!FirebaseAdmin.apps.length) {
     FirebaseAdmin.initializeApp({
         credential: FirebaseAdmin.credential.applicationDefault(),
-        projectId: 'espresso-8a785'
+        projectId: 'glow75-e20aa'
     });
 }
 
